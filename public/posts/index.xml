@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ESM.Academy</title>
+    <link>c:///Hugo/Sites/ESM.Academy/public/posts/</link>
+    <description>Recent content in Posts on ESM.Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Fri, 18 Dec 2020 23:36:16 +0300</lastBuildDate><atom:link href="c:///Hugo/Sites/ESM.Academy/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ne</title>
+      <link>c:///Hugo/Sites/ESM.Academy/public/posts/ne/</link>
+      <pubDate>Fri, 18 Dec 2020 23:36:16 +0300</pubDate>
+      
+      <guid>c:///Hugo/Sites/ESM.Academy/public/posts/ne/</guid>
+      <description>Привет
+Hello!</description>
+    </item>
+    
+  </channel>
+</rss>
