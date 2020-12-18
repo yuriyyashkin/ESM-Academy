@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "C:/Hugo/Sites/ESM.Academy/public/"
+baseURL = "https://delightful-desert-068a54b03.azurestaticapps.net/"
 # theme
 theme = "dot"
 # themesDir = "../.."
